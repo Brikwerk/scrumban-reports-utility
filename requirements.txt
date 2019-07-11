@@ -1,0 +1,5 @@
+TogglPy>=0.1.1
+requests>=2.20.0
+matplotlib>=3.0.0
+numpy>=1.15.3
+pandas>=0.23.4
